@@ -8,11 +8,9 @@ You type a city and the hours someone works. The week shows where those hours ov
 
 ## Try it
 
-Hosted page, once GitHub Pages is enabled for this repository:
+Download [whencanwe.html](https://github.com/macodev00/Idk-yet-let-grok-decide/releases/latest/download/whencanwe.html) and open it. That file runs offline.
 
-[macodev00.github.io/Idk-yet-let-grok-decide](https://macodev00.github.io/Idk-yet-let-grok-decide/)
-
-Or download `whencanwe.html` from the [latest release](https://github.com/macodev00/Idk-yet-let-grok-decide/releases/latest) and open it. That file runs offline.
+A hosted copy can live at [macodev00.github.io/Idk-yet-let-grok-decide](https://macodev00.github.io/Idk-yet-let-grok-decide/). Publishing it takes one repository setting: **Settings → Pages → Build and deployment → Source → GitHub Actions**. The Pages workflow deploys the site after that.
 
 From a checkout:
 
